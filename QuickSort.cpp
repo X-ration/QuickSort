@@ -1,4 +1,4 @@
-//快速排序，从小到大 
+//蹇�熸帓搴忥紝浠庡皬鍒板ぇ 
 #include <stdio.h>
 void quick_sort(int a[], int start, int end);
 
